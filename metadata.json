@@ -1,0 +1,6 @@
+{
+  "name": "Veritas Crest University",
+  "description": "Official modern website for Veritas Crest University featuring comprehensive academic programs, admissions, faculty directory, campus life, and an integrated student and faculty portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
